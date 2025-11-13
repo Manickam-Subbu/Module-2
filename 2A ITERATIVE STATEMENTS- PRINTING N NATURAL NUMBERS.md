@@ -17,6 +17,9 @@ To create a Python program for printing `n` natural numbers using a `for` loop.
 7. Terminate the program.
 
 ---
+## Reg.No-212223060147
+
+## Name- MANICKAM SUBBU
 
 ### 🧾 Program
 
